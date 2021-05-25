@@ -1,1 +1,3 @@
-https://community.max.gov/pages/viewpage.action?spaceKey=TREASExternal&title=Core+FS+Baseline+Configuration
+This will be replaced by text from Steve and Bena
+  - test
+  - test
